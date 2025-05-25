@@ -90,4 +90,7 @@ To run the integration tests:
 1.  Run the tests: `mvn integration-test -Pintegration-tests -DserverURL=https://localhost:8443 -Ddefault.cluster.admin=foo -Ddefault.cluster.password=bar -Ddefault.openshift.location=/tmp/oc`
 
 
-<!-- GitAds-Verify: 8R7OGGWELWVL5286M46ZDSINQV1PLAWP -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/openshift-restclient-java@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/openshift-restclient-java@github)
+
+
