@@ -88,3 +88,6 @@ To run the integration tests:
 1.  Define a user with cluster admin privilege
 1.  Download the oc binary
 1.  Run the tests: `mvn integration-test -Pintegration-tests -DserverURL=https://localhost:8443 -Ddefault.cluster.admin=foo -Ddefault.cluster.password=bar -Ddefault.openshift.location=/tmp/oc`
+
+
+<!-- GitAds-Verify: 8R7OGGWELWVL5286M46ZDSINQV1PLAWP -->
